@@ -20,12 +20,17 @@
 
             
             0 are commits
-         /--0---0----0      (FEAUTRE1 BRANCH)
+         /--0---0----0      (FEAUTRE1 BRAqNCH)
         /           /
 0--------0---0---0        (MASTER BRANCH)
 init        commits    
 commit
 
 
+MERGE
+
+         /--0---0----0      (FEAUTRE1 BRANCH)
+        /             \
+0------0---0---0-------0  
 
 
